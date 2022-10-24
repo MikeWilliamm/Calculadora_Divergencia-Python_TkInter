@@ -1,0 +1,1 @@
+start /min python -m main_calc.py /min
