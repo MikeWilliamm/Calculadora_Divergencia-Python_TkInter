@@ -15,7 +15,8 @@ A estrutura gráfica da calculadora consta dois objetos de imput(entrada de valo
 
 <b>Resultado final:</b>
 A calculadora foi desenvolvida com sucesso, utilizada para uma demando onde foi necessário a análise múltiplas divergências de valores, a entrada de valores pode ser tanto no formato brasileiro como no formato americano, seu retorno faz a conversão de valores formatada automaticamente  no padrão brasileiro R$.
-
+<br>
+<br>
 <p align="center">
   <img  src="prints/Calculadora.png"><br>
   <b>Calculador de Divergência</b>
