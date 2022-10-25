@@ -19,3 +19,4 @@ A calculadora foi desenvolvida com sucesso, utilizada para uma demando onde foi 
 <p align="center">
   <img  src="prints/Calculadora.png">
 </p>
+<b>Calculador de Divergência</b>
